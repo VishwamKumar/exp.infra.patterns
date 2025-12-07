@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="10.0.1" />
-    <PackageReference Include="Vishwam.Caching.Core" Version="0.0.22" />
+    <PackageReference Include="Zenvera.Shared.Caching" Version="0.0.25" />
   </ItemGroup>
 
 </Project>
